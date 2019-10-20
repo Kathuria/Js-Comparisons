@@ -18,4 +18,14 @@ npm run build
 npm run build --report
 ```
 
+
+## Vue Workshop @JSLovers
+
+#Basic Vue Topics
+https://codepen.io/avi_kathuria/pen/MWWbrrm
+
+#Working Vue Sample Project
+https://codesandbox.io/s/vue-template-c8rw0
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
