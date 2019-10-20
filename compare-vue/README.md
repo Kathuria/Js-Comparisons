@@ -21,10 +21,10 @@ npm run build --report
 
 ## Vue Workshop @JSLovers
 
-# Basic Vue Topics
+### Basic Vue Topics
 https://codepen.io/avi_kathuria/pen/MWWbrrm
 
-# Working Vue Sample Project
+### Working Vue Sample Project
 https://codesandbox.io/s/vue-template-c8rw0
 
 
